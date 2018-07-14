@@ -12,6 +12,9 @@ public class FirstClass extends TC1 {
 		FirstClass obj = new FirstClass();
 		System.out.println(obj.a);
 		
+		
+		
+		
 		TC1 obj1 = new TC1();
 //		System.out.println(obj1.a);
 
