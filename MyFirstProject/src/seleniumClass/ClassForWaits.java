@@ -88,6 +88,7 @@ public class ClassForWaits {
 		
 		
 		
+		
 /*//		FluentWait
 		FluentWait<WebDriver> wait_fluent = new FluentWait<WebDriver>(driver);
 		wait.pollingEvery(250,  TimeUnit.MILLISECONDS);
